@@ -1,6 +1,7 @@
 # Changelog
 
-## Planned 0.1.2
+## Unreleased
 
-- MSCore-compatible packaging and dependency metadata.
-- Native migration verification pending; not released.
+- Public repository prepared.
+- Existing merger behavior and MSCore integration tested privately.
+- Asset-reuse release work remains pending.
